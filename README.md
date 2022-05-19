@@ -1,11 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
 
 
 
-🤵🏽‍♂️  I'm Dominic
+🤵🏽‍♂️  I'm Gabriel Dominic (alias Happy_Codes😁)
 
 🖊    I design the backend and I add intelligence to machines
+
+🦊   I write smart contracts with solidity and mint NFTs🤓
 
 📚   I love books and I love animes
 
