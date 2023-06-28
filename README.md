@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Nweke's+GitHub+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Gabriel's+GitHub+Profile!)](https://git.io/typing-svg)
 
-<h1 align="center">Hello, I am Nweke Chidimma Gabriel - Dominic <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'></h1>
+<h1 align="center">Hello 😊, I am Nweke Chidimma Gabriel - Dominic <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'></h1>
 <hr/>
 
 
